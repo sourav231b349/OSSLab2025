@@ -16,7 +16,7 @@ Email: 231B349@juetguna.in
 
 
 
-
+\## This is python code
 
 \# Input from user
 
@@ -33,8 +33,4 @@ sum = num1 + num2
 \# Print the result
 
 print("The sum is:", sum)
-
-
-
-
 
